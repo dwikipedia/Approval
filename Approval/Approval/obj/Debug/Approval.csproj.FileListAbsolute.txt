@@ -1,0 +1,12 @@
+D:\Dwiki\Approval\Approval\bin\Debug\Approval.exe.config
+D:\Dwiki\Approval\Approval\bin\Debug\Approval.exe
+D:\Dwiki\Approval\Approval\bin\Debug\Approval.pdb
+D:\Dwiki\Approval\Approval\obj\Debug\Approval.csprojResolveAssemblyReference.cache
+D:\Dwiki\Approval\Approval\obj\Debug\Approval.exe
+D:\Dwiki\Approval\Approval\obj\Debug\Approval.pdb
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\bin\Debug\Approval.exe.config
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\bin\Debug\Approval.exe
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\bin\Debug\Approval.pdb
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\obj\Debug\Approval.csprojResolveAssemblyReference.cache
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\obj\Debug\Approval.exe
+C:\Users\Fujitsu\Documents\Visual Studio 2017\Projects\Approval\Approval\obj\Debug\Approval.pdb
